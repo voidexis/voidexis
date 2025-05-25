@@ -86,8 +86,8 @@ if __name__ == "__main__":
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=voidexis&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=voidexis&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=2" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=voidexis&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=voidexis&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=2" height="150" alt="streak graph"  />
 </div>
 
 <div align="center">
