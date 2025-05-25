@@ -1,4 +1,3 @@
-![banner](https://media.discordapp.net/attachments/1368788979473842178/1376123334827442217/github-header-image_6.png?ex=68342e3a&is=6832dcba&hm=5700a543147473bd0bd61fb7069f6e8d0a1f50276370d6d6a91287cd8b94e6ab&=&format=webp&quality=lossless)
 ```
 # void_init.py - initializing profile...
 
