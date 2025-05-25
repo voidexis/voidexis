@@ -7,8 +7,8 @@ class Void:
         self.alias = "🤖 voidexis"
         self.pronouns = "any (as long as you're respectful)"
         self.vibe = "lowkey chaos"
-        self.learning = ["Python", "DevOps", "whatever it takes to become a software engineer (or survive)"]
-        self.projects = ["RPG bot", "life management system", "second brain", "anything else the universe decides"]
+        self.learning = ["Python", "DevOps", "become a software engineer (or survive)"]
+        self.projects = ["RPG bot", "life management system", "second brain", "whatever the universe decides"]
         self.status = "running... mostly (do not question the 'mostly')"
 
     def boot(self):
@@ -23,8 +23,6 @@ if __name__ == "__main__":
     user = Void()
     user.boot()
 ```
-
----
 
 <h1 align="center">🧰 Tech Stack</h1>
 <div align="center">
@@ -81,17 +79,20 @@ if __name__ == "__main__":
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
----
 
-<img src="https://raw.githubusercontent.com/voidexis/voidexis/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://github.com/voidexis/voidexis/raw/output/snake.svg" alt="snake animation"/>
+</p>
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=voidexis&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="175" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=voidexis&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=2" height="175" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=voidexis&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="165" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=voidexis&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=2" height="165" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=voidexis&radius=16&theme=redical&area=false&order=5&hide_border=true&hide_title=true" height="310" alt="activity-graph graph"  />
 </div>
 
 ###
