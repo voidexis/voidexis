@@ -87,12 +87,12 @@ if __name__ == "__main__":
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=voidexis&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="165" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=voidexis&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=2" height="165" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=voidexis&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=voidexis&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=2" height="200" alt="streak graph"  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=voidexis&radius=16&theme=redical&area=false&order=5&hide_border=true&hide_title=true" height="310" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=voidexis&radius=16&theme=redical&area=false&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
