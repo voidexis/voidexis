@@ -77,18 +77,6 @@ if __name__ == "__main__":
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" />
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://roadmap.sh">
-    <img 
-      src="https://roadmap.sh/card/wide/6833f1accf080f2a32e46dcc?variant=dark&roadmaps=git-github%2Cpython" 
-      alt="roadmap.sh"
-      width="auto"
-    />
-  </a>
-</div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=voidexis&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="156" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=voidexis&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="156" alt="streak graph" />
