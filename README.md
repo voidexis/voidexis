@@ -1,7 +1,7 @@
 ```python
 # void_init.py - initializing profile...
 
-class Void:
+class voidEmerald:
     def __init__(self):
         self.alias = "🤖 voidexis"
         self.pronouns = "any (as long as you're respectful)"
@@ -19,7 +19,7 @@ class Void:
         print(f"✅ Status: {self.status}")
 
 if __name__ == "__main__":
-    user = Void()
+    user = voidEmerald()
     user.boot()
 ```
 
